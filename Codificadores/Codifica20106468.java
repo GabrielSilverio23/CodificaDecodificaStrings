@@ -30,7 +30,7 @@ public class Codifica20106468 implements Codifica{
             }            
         }        
         return encoded.toString();
-    }    
+    }  
 
     //metodo para decodificar
     @Override
