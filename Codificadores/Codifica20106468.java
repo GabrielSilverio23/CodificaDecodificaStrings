@@ -2,7 +2,7 @@
 
 package Codificadores;
 
-public class Codifica20106468 implements Codifica {
+public class Codifica20106468 implements Codifica{
 
     String abcInv = "9876543210zyxwvutsrqponmlkjihgfedcba ZYXWVUTSRQPONMLKJIHGFEDCBA";
     final int aux = 2;
